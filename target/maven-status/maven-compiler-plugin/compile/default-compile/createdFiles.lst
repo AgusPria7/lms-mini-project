@@ -1,0 +1,7 @@
+com\myproject\repository\BookRepository.class
+com\myproject\entity\Book.class
+com\myproject\config\SecurityConfig.class
+com\myproject\controller\LoginController.class
+com\myproject\RunApplication.class
+com\myproject\service\BookService.class
+com\myproject\controller\BookController.class
